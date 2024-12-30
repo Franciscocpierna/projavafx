@@ -7,6 +7,18 @@
 # BlueJ files
 *.ctxt
 
+# build
+bin/
+target/
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Eclipse
+.settings/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
