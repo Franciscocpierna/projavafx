@@ -7,7 +7,7 @@
 # BlueJ files
 *.ctxt
 
-# build
+# build folders
 bin/
 target/
 nbproject/private/
