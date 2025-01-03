@@ -11,14 +11,14 @@
 
 <VBox prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gui.DepartmentListController">
    <children>
-      <ToolBar prefHeight="40.0" prefWidth="200.0">
+      <ToolBar prefHeight="54.0" prefWidth="600.0">
          <padding>
             <Insets left="10.0" top="10.0" />
          </padding>
          <items>
-            <Label alignment="TOP_LEFT" contentDisplay="TOP" prefHeight="0.0" prefWidth="375.0" text="Department Registration">
+            <Label alignment="TOP_LEFT" contentDisplay="TOP" prefHeight="4.0" prefWidth="375.0" text="Department Registration">
                <padding>
-                  <Insets left="5.0" top="5.0" />
+                  <Insets left="32.0" top="1.0" />
                </padding>
                <font>
                   <Font name="System Bold" size="12.0" />
