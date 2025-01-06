@@ -35,3 +35,7 @@ nbdist/
 hs_err_pid*
 replay_pid*
 /.metadata/
+
+#Eclipse
+
+.settings/
